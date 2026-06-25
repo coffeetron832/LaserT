@@ -20,7 +20,5 @@ Have you ever stopped reading a great article just because you stumbled upon an 
 
 ## 📝 License & Copyright
 
-Designed for tech-driven readers who value smooth workflows and beautiful typography.
-
 **Version 1.0** (Stable Release)  
 © 2026 LáserT. All Rights Reserved. 
